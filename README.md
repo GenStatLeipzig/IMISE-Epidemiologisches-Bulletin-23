@@ -16,6 +16,7 @@ Black line shows data used for modelling (for test-positives and hospitalized pe
 
 
 #### Hypothetical scenarios Autumn/Winter 2022:
+Black line shows data used for scenario modelling (for test-positives and hospitalized people mean of 7 days, right-centric, see bulletin), red indicates data observed later. The light oscillating lines are daily reported data. Colored shaded areas denote the range where most modelled trajectories were found (95% confidence interval).
 ![](results/b23_s08_3_winterszenarien_update.jpeg "hypothetical scenarios vs observation")
 
 <sub>***Hypothetische Szenarien zum Verlauf der Pandemie in Sachsen im Herbst/Winter 2022.***</sub>
