@@ -10,10 +10,8 @@ Black line shows data used for modelling (for test-positives and hospitalized pe
 
 ![](results/b23_s06_2_sommersimulation_SN_DE_update.jpeg "Update scenarios vs observation")
 
-***Modellierte Szenarien zur Ausbreitung der Omikron-BA.4/BA.5 Variante im Sommer für A) Sachsen und B) Deutschland.***
+<sub>***Modellierte Szenarien zur Ausbreitung der Omikron-BA.4/BA.5 Variante im Sommer für A) Sachsen und B) Deutschland.***</sub>
 
-*Die hellgraue Linie stellt die berichteten Daten dar, die schwarze Linie den 7-Tage-Mittelwert. Die Modellvorhersage ist blaugrau gekennzeichnet, ein schattierter Bereich in A entspricht den häufigsten in den Modellierungen berechneten Verläufen (als 95% Unsicherheitsbereich). Als hospitalisiert werden Patienten auf Normalstation plus ITS gezählt.*
-
-*Methodik:  A) Agentenbasiertes Modell von Sachsen, B) -Erweitertes SECIR- Model von Deutschland. In den Modellen wurde die Altersstruktur, der Impf- und Genesenenstatus, der zeitabhängige Rückgang des Immunschutz vor Ansteckung („Waning“) berücksichtigt und ein Wegfall der CORONA-Maßnahmen sowie eine zeitlich variable Dunkelziffer angenommen. Datenquelle: Berichtete Daten vom RKI nach ingangsdatum mit rechtszentriertem gleitenden 7-Tage Mittelwert; Simulation Agenten Sachsen: MOCOS, Technische Universität Wroclaw, Simulation SECIR Deutschland: GenStat IMISE Universität Leipzig;*
+<sub>*Die hellgraue Linie stellt die berichteten Daten dar, die schwarze Linie den 7-Tage-Mittelwert. Die Modellvorhersage ist blaugrau gekennzeichnet, ein schattierter Bereich in A entspricht den häufigsten in den Modellierungen berechneten Verläufen (als 95% Unsicherheitsbereich). Als hospitalisiert werden Patienten auf Normalstation plus ITS gezählt. **Methodik**:  A) Agentenbasiertes Modell von Sachsen, B) -Erweitertes SECIR- Model von Deutschland. In den Modellen wurde die Altersstruktur, der Impf- und Genesenenstatus, der zeitabhängige Rückgang des Immunschutz vor Ansteckung („Waning“) berücksichtigt und ein Wegfall der CORONA-Maßnahmen sowie eine zeitlich variable Dunkelziffer angenommen. Datenquelle: Berichtete Daten vom RKI nach ingangsdatum mit rechtszentriertem gleitenden 7-Tage Mittelwert; Simulation Agenten Sachsen: MOCOS, Technische Universität Wroclaw, Simulation SECIR Deutschland: GenStat IMISE Universität Leipzig;*</sub>
 
 
