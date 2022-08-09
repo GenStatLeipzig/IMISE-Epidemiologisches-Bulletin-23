@@ -4,6 +4,8 @@ Additional Details for the Epidemiological [bulletin 23](https://www.imise.uni-l
 
 ### Comparison observed data with described scenarios
 
+Updated data on hospitalization is made available by the [Saechsische Staatsregierung](https://www.coronavirus.sachsen.de/infektionsfaelle-in-sachsen-4151.html#a-8983) typically on Tuesdays in the afternoon.
+
 #### BA.5-wave in summer 2022:
 
 Black line shows data used for modelling (for test-positives and hospitalized people mean of 7 days, right-centric, see bulletin), red indicates data observed later. The light oscillating lines are daily reported data. Grey shaded areas denote the range where most modelled trajectories were found (95% confidence interval).
